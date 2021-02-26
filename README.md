@@ -1,0 +1,1 @@
+ This is simple page using react js and calling api for title and body in section Expert trainers
